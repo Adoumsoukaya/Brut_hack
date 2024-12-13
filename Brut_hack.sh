@@ -35,7 +35,7 @@ clear
 echo -e "\033[47;31;5m Installation de la mise à jour et des exigences...\033[0m"
 sleep 5
 sudo apt install git -y
-sudo apt install python python3 -y
+sudo apt install python3 -y
 sudo apt install pip3
 sudo pip3 install curl -y
 sudo apt update
