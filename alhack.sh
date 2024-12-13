@@ -9,7 +9,7 @@ echo -e '\033[31;40;1m
     ██║   ██║   ██║██║   ██║██║          ██
     ██║   ╚██████╔╝╚██████╔╝███████╗███████╗
     ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝v3
- 
+  
  Coded by Brut_hack 
   github: https://github.com/Adoumsoukaya/
 \033[33;4mVersion:\033[0m 3            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Brut_hack 
