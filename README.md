@@ -19,9 +19,9 @@ works on any of the following operating systems:
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
-* `<cd ALHacking>`
-* `<bash alhack.sh>`
+* Then`<git clone https://github.com/Adoumsoukaya/Brut_hack>`
+* `<cd Brut_hack>`
+* `<bash Brut_hack.sh>`
 
 
 # Warning
